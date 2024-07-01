@@ -1,0 +1,8 @@
+apache-airflow==2.9.2
+pyspark==3.5
+boto3
+snowflake-connector-python
+pandas
+psycopg2-binary
+matplotlib
+seaborn

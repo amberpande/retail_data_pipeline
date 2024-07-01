@@ -1,0 +1,11 @@
+AWS_S3_BUCKET_NAME = 'your-aws-s3-bucket-name'
+AWS_ACCESS_KEY = 'your-aws-access-key'
+AWS_SECRET_KEY = 'your-aws-secret-key'
+AWS_REGION = 'us-east-1'
+
+SNOWFLAKE_USER = 'your-snowflake-username'
+SNOWFLAKE_PASSWORD = 'your-snowflake-password'
+SNOWFLAKE_ACCOUNT = 'your-snowflake-account'
+SNOWFLAKE_WAREHOUSE = 'RETAIL_SALES_WH'
+SNOWFLAKE_DATABASE = 'RETAIL_SALES_DB'
+SNOWFLAKE_SCHEMA = 'RETAIL_SALES_DATA_SCHEMA'
