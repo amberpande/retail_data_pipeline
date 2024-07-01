@@ -50,12 +50,12 @@ graph TD
 ### Setup and Installation
 
 1. Install Docker Desktop
-2. unzip sales-etl-pipeline
-3. cd sales-etl-pipeline
+2. Clone the repository: `git clone https://github.com/amberpande/retail_data_pipeline.git`
+3. cd retail_data_pipeline
 4. Create a free AWS account -> create a S3 bucket with Https access -> create `data` folder and updload the csv data file the datasource
 5. Create a free Snowflake account
 
-Replace the placeholder with your credentials in `scripts/config.py`.
+Replace the placeholders with your credentials in `scripts/config.py`.
 
 
 ## Running the Pipeline
